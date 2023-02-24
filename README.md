@@ -9,6 +9,11 @@
 
 <h1><center><b>Créditos & Informações</b></center></h1>
 
+<style>
+    .foto {
+      border-radius: 150px;
+    }
+</style>
 
 <p align="center">
     <a href="https://anuraghazra.github.io">
