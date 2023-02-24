@@ -9,17 +9,9 @@
 
 <h1><center><b>Créditos & Informações</b></center></h1>
 
-<html>
-    <style>
-        #foto {
-            border-radius: 150px;
-        }
-    </style>
-</html>
-
 <p align="center">
     <a href="https://github.com/EresPvP">
-      <img id="foto" width="25%" alt="WantedSSH" src="https://avatars.githubusercontent.com/u/55217266?s=400&u=3e1e7f20381561b1407bd00f574af1b25d4aa90e&v=4"/>
+      <img style="border-radius: 150px;" width="25%" alt="WantedSSH" src="https://avatars.githubusercontent.com/u/55217266?s=400&u=3e1e7f20381561b1407bd00f574af1b25d4aa90e&v=4"/>
     </a>
 </p>
 
