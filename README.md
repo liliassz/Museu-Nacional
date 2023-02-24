@@ -9,7 +9,12 @@
 
 <h1><center><b>Créditos & Informações</b></center></h1>
 
-<p align="center"><a href="https://anuraghazra.github.io"><img width="25%" alt="WantedSSH" src="https://github.com/EresPvP/EresPvP/blob/main/imagens/WantedSSH.png?raw=true" /></a></p>
+
+<p align="center">
+    <a href="https://anuraghazra.github.io">
+      <img class="foto" style="border-radius: 150px;" width="25%" alt="WantedSSH" src="https://avatars.githubusercontent.com/u/55217266?s=400&u=3e1e7f20381561b1407bd00f574af1b25d4aa90e&v=4"/>
+    </a>
+</p>
 
 <p align="center">Olá, Me chamo <b>Elias Souza</b> </p>
 
