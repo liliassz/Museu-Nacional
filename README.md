@@ -8,7 +8,7 @@
 
 <h1>
 
-<h2><center><b>Créditos & Informações</b></center></h1>
+<h2><center><b>Créditos & Informações</b></center>
 
 <p align="center"><a href="https://anuraghazra.github.io"><img width="25%" alt="WantedSSH" src="https://github.com/EresPvP/EresPvP/blob/main/imagens/WantedSSH.png?raw=true" /></a></p>
 
