@@ -6,11 +6,6 @@
 
 <h2><center><b> O Museu Nacionel é um Website criado por min para melhorar minhas Habilidades em Desenvolvimento Web</b></center></h2> <br>
 
-<hr><br>
-
-
-
-
 <h2><center><b>Créditos & Informações</b></center></h1>
 
 <p align="center"><a href="https://anuraghazra.github.io"><img width="25%" alt="WantedSSH" src="https://github.com/EresPvP/EresPvP/blob/main/imagens/WantedSSH.png?raw=true" /></a></p>
